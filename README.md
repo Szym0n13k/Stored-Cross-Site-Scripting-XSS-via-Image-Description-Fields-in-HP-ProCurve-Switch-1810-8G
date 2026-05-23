@@ -1,0 +1,2 @@
+# Stored-Cross-Site-Scripting-XSS-via-Image-Description-Fields-in-HP-ProCurve-Switch-1810-8G
+W HP ProCurve Switch 1810-8G wykryto podatność Stored XSS w panelu webowym. Przez brak sanitacji danych uwierzytelniony atakujący może wstrzyknąć złośliwy skrypt JavaScript do pól konfiguracyjnych. Kod wykonuje się w przeglądarce administratora. Brak indywidualnych kont i współdzielone hasło dodatkowo zwiększają ryzyko przejęcia urządzenia.
